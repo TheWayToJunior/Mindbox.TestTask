@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Mindbox.TestTask.Core\Mindbox.TestTask.Core.csproj" />
+  </ItemGroup>
+
 </Project>
