@@ -1,7 +1,7 @@
 ﻿using Mindbox.TestTask.Core.Exceptions;
 using Mindbox.TestTask.Core.IContracts;
 
-namespace Mindbox.TestTask.Core.Models.Cartesian
+namespace Mindbox.TestTask.Cartesian.Models
 {
     public class CartesianCircle : IShape
     {

@@ -1,6 +1,6 @@
-﻿using Mindbox.TestTask.Core.IContracts;
+﻿using Mindbox.TestTask.Core.Models;
 
-namespace Mindbox.TestTask.Core.Models.Cartesian
+namespace Mindbox.TestTask.Cartesian.Models
 {
     public class CartesianTriangle(CartesianPoint a, CartesianPoint b, CartesianPoint c)
         : Triangle<CartesianPoint>(a, b, c)

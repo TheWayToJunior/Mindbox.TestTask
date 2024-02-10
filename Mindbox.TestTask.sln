@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox.TestTask.Core", "src\Mindbox.TestTask.Core\Mindbox.TestTask.Core.csproj", "{80BD64AE-F8AA-4A5F-BE33-3104B1882425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.TestTask.UnitTests", "tests\Mindbox.TestTask.UnitTests\Mindbox.TestTask.UnitTests.csproj", "{FA97BA12-2B86-4A41-9439-D09009AECCFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox.TestTask.UnitTests", "tests\Mindbox.TestTask.UnitTests\Mindbox.TestTask.UnitTests.csproj", "{FA97BA12-2B86-4A41-9439-D09009AECCFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.TestTask.Cartesion", "src\Mindbox.TestTask.Cartesion\Mindbox.TestTask.Cartesion.csproj", "{875B55B4-D76B-4F30-B554-8E69FECC85DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FA97BA12-2B86-4A41-9439-D09009AECCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA97BA12-2B86-4A41-9439-D09009AECCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA97BA12-2B86-4A41-9439-D09009AECCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875B55B4-D76B-4F30-B554-8E69FECC85DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875B55B4-D76B-4F30-B554-8E69FECC85DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875B55B4-D76B-4F30-B554-8E69FECC85DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875B55B4-D76B-4F30-B554-8E69FECC85DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

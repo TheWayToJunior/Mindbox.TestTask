@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Mindbox.TestTask.Core\Mindbox.TestTask.Core.csproj" />
+    <ProjectReference Include="..\..\src\Mindbox.TestTask.Cartesion\Mindbox.TestTask.Cartesion.csproj" />
   </ItemGroup>
 
 </Project>

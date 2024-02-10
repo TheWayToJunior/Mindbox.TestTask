@@ -1,6 +1,6 @@
 ﻿using Mindbox.TestTask.Core.IContracts;
 
-namespace Mindbox.TestTask.Core.Models.Cartesian
+namespace Mindbox.TestTask.Cartesian.Models
 {
     public class CartesianPoint(double x, double y) : IPoint
     {

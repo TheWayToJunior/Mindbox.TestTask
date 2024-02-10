@@ -1,7 +1,7 @@
-﻿using Mindbox.TestTask.Core.IContracts;
-using Mindbox.TestTask.Core.Models.Cartesian;
+﻿using Mindbox.TestTask.Cartesian.Models;
+using Mindbox.TestTask.Core.IContracts;
 
-namespace Mindbox.TestTask.Core.Extensions
+namespace Mindbox.TestTask.Cartesian.Extensions
 {
     public static class CartesianShapeFactoryExtension
     {

@@ -1,4 +1,4 @@
-﻿using Mindbox.TestTask.Core.Models.Cartesian;
+﻿using Mindbox.TestTask.Cartesian.Models;
 
 namespace Mindbox.TestTask.UnitTests
 {

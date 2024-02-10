@@ -1,5 +1,6 @@
-﻿using Mindbox.TestTask.Core.Exceptions;
-using Mindbox.TestTask.Core.Extensions;
+﻿using Mindbox.TestTask.Cartesian.Extensions;
+using Mindbox.TestTask.Cartesian.Models;
+using Mindbox.TestTask.Core.Exceptions;
 
 namespace Mindbox.TestTask.Core.Models.Cartesian
 {
